@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\paulpham\documents\visual studio 2015\projects\fixing_cars_fileio_exceptionhandling_etc\fixing_cars_fileio_exceptionhandling_etc\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\paulpham\documents\visual studio 2015\projects\fixing_cars_fileio_exceptionhandling_etc\fixing_cars_fileio_exceptionhandling_etc\source.cpp(48): warning C4101: 'x': unreferenced local variable
+  Fixing_Cars_FileIO_ExceptionHandling_ETC.vcxproj -> C:\Users\PaulPham\Documents\Visual Studio 2015\Projects\Fixing_Cars_FileIO_ExceptionHandling_ETC\Debug\Fixing_Cars_FileIO_ExceptionHandling_ETC.exe
+  Fixing_Cars_FileIO_ExceptionHandling_ETC.vcxproj -> C:\Users\PaulPham\Documents\Visual Studio 2015\Projects\Fixing_Cars_FileIO_ExceptionHandling_ETC\Debug\Fixing_Cars_FileIO_ExceptionHandling_ETC.pdb (Partial PDB)
